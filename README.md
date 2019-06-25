@@ -1,2 +1,2 @@
 # object-values-cleaner
-A simple script to clear the values of an object
+A simple script to clean the values of an object
