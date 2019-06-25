@@ -1,5 +1,5 @@
 /**
- * Initialize an given object with the following behaviour
+ * Cleans a given object with the following behaviour
  * Key -> sets the values to null
  * Array -> If Array of Objects: sets array size to 1 and all object keys to null
  *          If Array of Elements: sets array size to 0
