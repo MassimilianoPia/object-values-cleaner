@@ -1,0 +1,14 @@
+{
+  "name": "object-values-cleaner",
+  "version": "1.0.0",
+  "description": "A simple script to clear an object values",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "author": "Massimiliano Pia",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
