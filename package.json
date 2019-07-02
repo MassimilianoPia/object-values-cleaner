@@ -7,7 +7,7 @@
     "test": "jest --coverage"
   },
   "author": "Massimiliano Pia",
-  "license": "ISC",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/MassimilianoPia/object-values-cleaner"
