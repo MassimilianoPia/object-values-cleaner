@@ -1,6 +1,6 @@
 {
   "name": "object-values-cleaner",
-  "version": "0.0.6",
+  "version": "0.0.5",
   "description": "A simple script to clear an object values",
   "main": "index.js",
   "scripts": {
