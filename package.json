@@ -1,6 +1,6 @@
 {
   "name": "object-values-cleaner",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "A simple script to clear an object values",
   "main": "index.js",
   "scripts": {
@@ -18,6 +18,6 @@
     "cleaner"
   ],
   "devDependencies": {
-    "jest": "^24.8.0"
+    "jest": "^24.9.0"
   }
 }
